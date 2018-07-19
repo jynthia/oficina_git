@@ -1,0 +1,11 @@
+== Tarefa 02
+
+=== Fork e exploração
+
+. forkar https://github.com/angolini/Minhas_Receitas
+. git clone do fork
+. inspeção dos arquivos na máquina
+. introdução do git log
+. quantos arquivos há na pasta?
+. o que é um commit
+. quantos commits há no log?

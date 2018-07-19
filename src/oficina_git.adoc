@@ -6,3 +6,5 @@
 :toclevels: 5
 
 include::tarefa_01.adoc[]
+
+include::tarefa_02.adoc[]
