@@ -1,1 +1,35 @@
 == Tarefa 01
+
+=== Conhecendo o Git
+
+O que é o Git? Pra que ele serve e porque todo mundo sempre fala nele?
+
+Há um texto já bem antigo que descreve o que é o git usando uma parábola, é a https://renato-aquino.blogspot.com/2009/06/parabola-do-git.html[Parábola do Git]. Esse link é uma tradução, o original é em inglês.
+
+Também há vários videos no YouTube, uma sugestão é  https://www.youtube.com/watch?v=UMhskLXJuq4[esse] que além de descrever o que é Git e controle de versão, também mostra a diferença entre Git e GitHub.
+
+Porém, o livro texto https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Sobre-Controle-de-Vers%C3%A3os[ProGit] trás um capitulo inteiro dedicado ao tema. Esse primeiro capítulo pode ser muito denso nesse momento, mas lembre-se que ele é o mais completo, e talvez seja bom voltarmos a ele no futuro.
+
+=== Exercício 1
+
+O primeiro exercício dessa tarefa é criar uma conta no GitHub, caso você não tenha.
+
+É muito importante ler os termos de uso. Normalmente se clica `Aceito` sem ler, mas dessa vez leia.
+
+==== Pergunta 1: O GitHub aceita contas de robos?
+
+==== Pergunta 2: Uma pessoa pode ter mais do que uma conta no GitHub?
+
+==== Pergunta 3: Qual é seu usuário
+
+É necessário ter um usuário GitHub para seguir com essa oficina. Caso você não aceite os termos de uso, encaminhe um email para {EMAIL} que podemos discutir outras oficinas.
+
+=== Exercício 2
+
+O segundo exercício é a instalação do Git na sua máquina.
+
+//TODO: Apontar um tutorial de instalação, talvez o video da Loiane.
+
+==== Pergunta 4: Qual sistema operacional você usa?
+
+Parabéns! A primeira tarefa está concluida. Siga o grupo para acompanhar a correção (ou comentário) das perguntas.
