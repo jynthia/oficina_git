@@ -1,13 +1,8 @@
-= Article Title
+= Oficina Git
 :doctype: article
 :sectnums:
 :source-highlighter: coderay
 :toc: left
 :toclevels: 5
 
-== Introduction
-
-include::first-section.adoc[]
-
-== Summary
-
+include::tarefa_01.adoc[]
