@@ -1,0 +1,51 @@
+= Oficina Git
+:doctype: article
+:sectnums:
+:toc: left
+:toclevels: 5
+
+== Objetivo
+
+Introduzir o conceito de controle de versão usando o Git como ferramenta de aprendizado. Além de familiarizar o leitor com o GitHub.
+
+== Material
+
+O material da oficina é voltado principalmente para as tarefas semanais. Cada tarefa apresenta exercícios que ensinam e revisam conceitos.
+
+O material também deve oferecer material de leitura de apoio e indicação de videos da comunidade.
+
+O livro texto base é o https://git-scm.com/book/pt-br/v2[ProGit] (versão em Português do Brasil).
+
+=== Tarefas
+
+As tarefas serão divididas por conceitos básicos com o objetivo de sempre mostrar o conceito aplicado, para então explicar o conceito e então modificar o conceito aplicado como forma de aprendizado.
+
+As tarefas aqui apresentadas devem fornecer material de estudo, alguma introdução ao conceito, as tarefas que deverão ser executadas  e o link para um formulário onde o leitor poderá submeter as respostas para correção (ou apenas para pontuar sua execução).
+
+== Monitoras
+
+A oficina é escrita e revisada por no mínimo 2 pessoas com conhecimento em Git.
+
+É desejável que haja uma revisão realizada por um leitor com menos conhecimento para que possiveis dúvidas sejam levantadas previamente (como uma execução beta.)
+
+É desejavel que haja um grupo de estudos virtual (possivelmente um grupo no Facebook) para dúvidas e mentoria.
+
+Estima-se que uma mentora seria capaz de mentorar até 10 mentorandas. Incluindo dúvidas no grupo e correção de exercícios.
+
+=== Responsabilidades
+
+* Autoras
+.. Daiane
+.. ?
+* Mentoras
+.. Daiane
+.. ?
+.. ?
+
+== Inscrição
+
+É desejável que o curso seja restrito às matriculadas, e que a turma seja limitada para que as monitoras não fiquem sobrecarregadas.
+
+Após a primeira execução da oficina, seguida de possíveis ajustes, a oficina poderá ser reaplicada com certa regularidade.
+
+É necessário que a aluna aceite os termos de uso do GitHub, e que ela tenha uma conta google para submeter os formulários de exercícios.
